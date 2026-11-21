@@ -22,3 +22,4 @@ Repositório dedicado à implementação em linguagem **C** de algoritmos de **T
          ├── 1. Recebe as coordenadas (x, y) de um ou mais personagens
          ├── 2. Aplica a matriz de rotação A (90°, 180° e 270° anti-horário)
          └── 3. Apresenta o comparativo entre as posições iniciais e rotacionadas
+```
