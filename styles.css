@@ -1,0 +1,32 @@
+
+body{
+
+    background-image: url('imgs/fundo.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+
+}
+
+h1{
+
+    font-family:serif;
+    color: rgb(110, 43, 4);
+
+}
+
+p{
+
+    font-family:serif;
+    color: rgb(110, 43, 4);
+    text-align: center;
+}
+
+a{
+
+    font-family:serif;
+    color: rgb(110, 43, 4);
+    text-decoration: underline;
+
+}
